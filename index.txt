@@ -3,22 +3,19 @@ vCard - Personal Portfolio
 # sidebar
 
 alt = Richard hanrick
-Richard hanrick
-Web developer
+Jin Dang
+Product Manager
 
 Show Contacts
 
 Email
-richard@example.com
+dangjin798@yeah.net
 
 Phone
 +1 (213) 352-2795
 
-Birthday
-June 23, 1982
-
 Location
-Sacramento, California, USA
+BeiJin
 
 # navbar
 
